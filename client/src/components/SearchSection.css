@@ -1,0 +1,7 @@
+.chipinput-dark input,
+.chipinput-dark input::placeholder,
+.chipinput-dark .MuiInputBase-input,
+.chipinput-dark .MuiInputBase-input::placeholder {
+  color: #cccccc !important;
+  opacity: 1 !important;
+}
